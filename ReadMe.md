@@ -119,15 +119,6 @@ This project demonstrates:
 
 ---
 
-## 🧑‍💻 Author
-
-**Varun Gaurav**
-
-- Analytics professional transitioning into AI/ML & GenAI  
-- Focused on building real-world AI systems  
-
----
-
 ## ⭐ Note
 
 This project is based on an official Google tutorial and has been adapted for learning and demonstration purposes.
